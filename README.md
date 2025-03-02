@@ -1,4 +1,8 @@
 # Implementing-Reinforcement-Learning-in-Gaming
+
+Youtube Link:
+https://www.youtube.com/watch?v=Z8w28p2Bjdg
+
 The goal of this project is to use gaming to implement reinforcement learning. As we develop this AI model, we plan to create a reinforcement learning model that will allow it to play Mario and see back and forth.
 
 We're going to use Python to do this. Open AI Gym will be utilized by us.AI may be easily trained to play games and interact with various simulated environments using this common architecture. Consider Alphabetix, but on a smaller scale. For our objective, we are use the "https://pypi.org/project/gym-super-mario-bros/" environment, which is a modified version of the NES emulator running on Python.
